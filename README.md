@@ -1,8 +1,7 @@
 # R_Scripts
-Repository to hold a large number of random r scripts
 | Homeworks | Labs      | Projects  |
 |:---------:|:---------:|:---------:|
-|[week1](Lab/Week1)|[week1](Lab/Week1)|      |
+|[week1](Homework/Week1)|[week1](Lab/Week1)|      |
 |[week2](Homework/Week2)|[week2](Lab/Week2)|      |
 |[week3](Homework/Week3)|[week3](Lab/Week3)|      |
 |[week4](Homework/Week4)|[week4](Lab/Week4)|      |
