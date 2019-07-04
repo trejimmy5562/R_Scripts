@@ -1,5 +1,5 @@
 # R_Scripts
-| Homeworks | Labs      | Projects  |
+| Homeworks | Lecture      | Projects  |
 |:---------:|:---------:|:---------:|
 |[Assignment 1](Assn1)|[week1](Lab/Week1)|[Project](Project)|
 |[Assignment 2](Assn2)|[week2](Lab/Week2)|[Peer Review](Peer)|
