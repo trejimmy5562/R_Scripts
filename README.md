@@ -1,7 +1,7 @@
 # R_Scripts
 | Homeworks | Lecture      | Projects  |
 |:---------:|:---------:|:---------:|
-|[Assignment 1](Assn1)|[Lecture Slides](/Lecture Slides)|[Project](Project)|
+|[Assignment 1](Assn1)|[Lecture Slides](LectureSlides)|[Project](Project)|
 |[Assignment 2](Assn2)|[week2](Lab/Week2)|[Peer Review](Peer)|
 |[Assignment 3](Assn3)|[week3](Lab/Week3)|      |
 |[Assignment 4](Assn4)|[week4](Lab/Week4)|      |
